@@ -72,3 +72,55 @@ body {
     transform: rotate(15deg);
 }
 
+.o5 {
+    position: absolute;
+    width: 37px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fdff00;
+    top: 0;
+    left: 57px;
+}
+
+.sq1 {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    top: 0;
+    left: 74px;
+    background-color: #fdff00;
+
+}
+
+.o6 {
+    position: absolute;
+    width: 37px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fdff00;
+    top: 0;
+    right: 57px;
+}
+
+.sq2 {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    top: 0;
+    right: 74px;
+    background-color: #fdff00;
+
+}
+
+.ears {
+    position: absolute;
+    top: 0;
+    left: 95px;
+    border-bottom: 12px solid #fdff00;
+    border-left: 6px solid black;
+    border-right: 20px solid black;
+    width: 40px;
+    transform: rotate(180deg);
+
+}
+
